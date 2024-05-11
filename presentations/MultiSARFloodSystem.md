@@ -13,10 +13,19 @@
       Paper: <a href="https://journals.ametsoc.org/configurable/content/journals$002fbams$002f102$002f5$002fBAMS-D-19-0319.1.xml?t:ac=journals%24002fbams%24002f102%24002f5%24002fBAMS-D-19-0319.1.xml">Yang, Q., et al., Bulletin of the American Meteorological Society, 2021</a>
     </p>
     <p>
-      Paper: <a href="https://journals.ametsoc.org/configurable/content/journals$002fbams$002f102$002f5$002fBAMS-D-19-0319.1.xml?t:ac=journals%24002fbams%24002f102%24002f5%24002fBAMS-D-19-0319.1.xml">Yang, Q., et al., IGARSS 2024</a>
+      Conference Proceeding: <a href="https://essopenarchive.org/users/781530/articles/936006-advanced-operational-flood-monitoring-in-the-new-era-harnessing-high-resolution-event-based-and-multi-source-remote-sensing-data-for-flood-extent-detection-and-depth-estimation">Yang, Q., et al., IGARSS 2024</a>
     </p>
     <p>
       Updated System Paper: in preparation.</a>
     </p>
   </div>
 </div>
+
+
+![BAMS](../images/MultiSAR_Flood_Maps.gif)
+
+A novel design that initializes the industrialization of Synthetic Aperture Radar (SAR)-based operational flood mapping. The fusion of automatic trigger, satellite tasking, multi-source SAR data utilization, self-supervised algorithm, cloud computing, and consolidated teamwork led by NOAA NESDIS has elevated the system to the real-world operational level. Now hydrologists would have flood inundation footages that penetrate the cloud, regardless of day or night.
+
+- Paper: [Yang, Q., et al., Bulletin of the American Meteorological Society, 2021](https://journals.ametsoc.org/configurable/content/journals$002fbams$002f102$002f5$002fBAMS-D-19-0319.1.xml?t:ac=journals%24002fbams%24002f102%24002f5%24002fBAMS-D-19-0319.1.xml)
+- Conference Proceeding: [Yang, Q., et al., IGARSS 2024](https://essopenarchive.org/users/781530/articles/936006-advanced-operational-flood-monitoring-in-the-new-era-harnessing-high-resolution-event-based-and-multi-source-remote-sensing-data-for-flood-extent-detection-and-depth-estimation)
+- Updated System Paper: in preparation.
