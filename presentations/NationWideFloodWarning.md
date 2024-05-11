@@ -1,4 +1,4 @@
-## A Nationalwide Flash Flood Forecasting System
+## A Nationwide Flash Flood Forecasting System
  <div style="display: flex; flex-direction: row; justify-content: space-between;">
    <div style="width: 50%; margin-top: 0px;"> <!-- Set width to 60% for the figure -->
     <a>
