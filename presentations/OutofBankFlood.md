@@ -2,7 +2,7 @@
  <div style="display: flex; flex-direction: row; justify-content: space-between;">
    <div style="width: 50%; margin-top: 0px;"> <!-- Set width to 60% for the figure -->
     <a>
-      <img src="../images/RR_2023_blended_Stage_Drayton.gif" alt="BAMS" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
+      <img src="../images/RR_2023_blended_Stage_Drayton.gif" alt="Out-of-Bank Flood" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
     </a>
   </div>
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
