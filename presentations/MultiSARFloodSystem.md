@@ -1,7 +1,7 @@
 ## Operational Flood Mapping System using Multi-source SAR data
  <div style="display: flex; flex-direction: row; justify-content: space-between;">
    <div style="width: 50%; margin-top: 0px;"> <!-- Set width to 60% for the figure -->
-    <a href="https://journals.ametsoc.org/configurable/content/journals$002fbams$002f102$002f5$002fBAMS-D-19-0319.1.xml?t:ac=journals%24002fbams%24002f102%24002f5%24002fBAMS-D-19-0319.1.xml">
+    <a>
       <img src="../images/MultiSAR_Flood_Maps.gif" alt="BAMS" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
     </a>
   </div>
