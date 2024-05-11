@@ -15,6 +15,6 @@
 - Conference proceeding: [Sofia, G., Yang, Q., Shen, X., et al., EGU23](https://meetingorganizer.copernicus.org/EGU23/EGU23-7434.html)
 - Journal paper: in submission.
 
-Next phase, we are integrating the reseroir module to the system to account dam abstraction effects for better flash flood forecasting.
+In the upcoming phase, we are integrating a reservoir module into the system to incorporate dam abstraction effects, enhancing our capability for more accurate flash flood forecasting.
 
 ![Reservoir](../images/Next_Phase_Flood_Model_With_Reservoir.png)
