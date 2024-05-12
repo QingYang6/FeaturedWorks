@@ -14,6 +14,7 @@
 
 - Conference proceeding: [Sofia, G., Yang, Q., Shen, X., et al., EGU23](https://meetingorganizer.copernicus.org/EGU23/EGU23-7434.html)
 - Journal paper: in submission.
+- Hydrological model tutorial: [Yang, Q., 2023](https://github.com/QingYang6/CREST_tutorial)
 
 In the upcoming phase, we are integrating a reservoir module into the system to incorporate dam abstraction effects, enhancing our capability for more accurate flash flood forecasting.
 
