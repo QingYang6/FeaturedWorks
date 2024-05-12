@@ -17,4 +17,4 @@
 - Conference Proceeding: [Yang, Q., et al., IGARSS 2024](../pdfs/IGARSS2024_Accepted.pdf)
 - Updated System Paper: in preparation.
 
-[![BAMS_cover](../images/BAMS_cover_103_3.png)]
+![BAMS_cover](../images/BAMS_cover_103_3.png)
