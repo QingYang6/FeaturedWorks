@@ -7,7 +7,7 @@
   </div>
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>
-      This blended product, combining VIIRs and multi-source SAR-based maps, reveals previously overlooked out-of-bank flood flows by illustrating how flood inundation fluctuates despite consistent water levels. This insight could significantly enhance flood inundation modeling.
+      This blended product, combining VIIRs and multi-source SAR-based maps, reveals previously overlooked out-of-bank flood flows by illustrating how flood inundation fluctuates despite consistent water levels. This insight could significantly enhance flood inundation modeling. It will be tested on the operational platform soon.
     </p>
   </div>
 </div>
