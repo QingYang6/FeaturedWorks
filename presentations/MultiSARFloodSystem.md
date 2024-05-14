@@ -8,7 +8,7 @@
   </div>
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>
-      A novel design that initalizes the industrilization of Sythetic Apeture Radar(SAR)-based operational flood mapping. The fusion of automatic trigger, satellite tasking, multi-source SAR data ultilization, self-supervised algorithm, cloud computing, and consolidated team work lead by NOAA NESDIS has elevated the system to the real-word operational level. Now hydrologists would have flood inundation footages that penatrate the cloud, regardless day or night.
+      A novel design that initalizes the industrilization of Sythetic Apeture Radar(SAR)-based near-real-time flood mapping. The fusion of automatic trigger, satellite tasking, multi-source SAR data ultilization, self-supervised algorithm, cloud computing, and consolidated team work lead by NOAA NESDIS has elevated the system to the real-word operational level. Now hydrologists would have flood inundation footages that penatrate the cloud, regardless day or night.
     </p>
   </div>
 </div>
