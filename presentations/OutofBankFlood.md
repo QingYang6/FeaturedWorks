@@ -15,5 +15,5 @@
 ### References
 - Paper: [Li, S, et al., Remote Sensing of Environment, 2018](https://www.sciencedirect.com/science/article/abs/pii/S0034425717304431)
 - Paper: [Yang, Q., et al., Bulletin of the American Meteorological Society, 2021](https://journals.ametsoc.org/configurable/content/journals$002fbams$002f102$002f5$002fBAMS-D-19-0319.1.xml?t:ac=journals%24002fbams%24002f102%24002f5%24002fBAMS-D-19-0319.1.xml)
-- Conference Proceeding: [Yang, Q., et al., IGARSS 2024](../pdfs/IGARSS2024_Accepted.pdf)
+- Conference Proceeding: [Yang, Q., et al., IGARSS 2024](https://essopenarchive.org/users/781530/articles/936006-advanced-operational-flood-monitoring-in-the-new-era-harnessing-high-resolution-event-based-and-multi-source-remote-sensing-data-for-flood-extent-detection-and-depth-estimation)
 - Blend Product Paper: in preparation.
